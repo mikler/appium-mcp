@@ -1,3 +1,9 @@
+## [1.1.16](https://github.com/appium/appium-mcp/compare/v1.1.15...v1.1.16) (2025-11-21)
+
+### Bug Fixes
+
+* length of mcp server description ([#47](https://github.com/appium/appium-mcp/issues/47)) ([460e8e4](https://github.com/appium/appium-mcp/commit/460e8e4fc9c34251a902ebd9ba08217bd6d08bf3))
+
 ## [1.1.15](https://github.com/appium/appium-mcp/compare/v1.1.14...v1.1.15) (2025-11-21)
 
 ### Bug Fixes
