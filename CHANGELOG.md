@@ -1,3 +1,13 @@
+## [1.1.12](https://github.com/appium/appium-mcp/compare/v1.1.11...v1.1.12) (2025-11-21)
+
+### Miscellaneous Chores
+
+* publish to official mcp registry ([#43](https://github.com/appium/appium-mcp/issues/43)) ([e9fdc2e](https://github.com/appium/appium-mcp/commit/e9fdc2ea2be3499628fbcc6e3d1bd8e02742969e))
+
+### Code Refactoring
+
+* reorganize tools into categorized directories ([#38](https://github.com/appium/appium-mcp/issues/38)) ([a218c1a](https://github.com/appium/appium-mcp/commit/a218c1ae78a520f901eab09f1b06842d87fe031f))
+
 ## [1.1.11](https://github.com/appium/appium-mcp/compare/v1.1.10...v1.1.11) (2025-11-19)
 
 ### Bug Fixes
