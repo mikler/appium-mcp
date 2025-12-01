@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/appium/appium-mcp/compare/v1.1.17...v1.2.0) (2025-12-01)
+
+### Features
+
+* **navigation:** add swipe tool for horizontal and vertical swiping ([#49](https://github.com/appium/appium-mcp/issues/49)) ([5c163b7](https://github.com/appium/appium-mcp/commit/5c163b75896999a33c0db098ca6fb3973a390313))
+
 ## [1.1.17](https://github.com/appium/appium-mcp/compare/v1.1.16...v1.1.17) (2025-11-21)
 
 ### Miscellaneous Chores
