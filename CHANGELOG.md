@@ -1,3 +1,10 @@
+## [1.7.5](https://github.com/appium/appium-mcp/compare/v1.7.4...v1.7.5) (2026-01-12)
+
+### Miscellaneous Chores
+
+* **deps:** bump @langfuse/otel from 4.2.0 to 4.5.1 ([#84](https://github.com/appium/appium-mcp/issues/84)) ([903bdd3](https://github.com/appium/appium-mcp/commit/903bdd35154e46a0ce14421bbec8f2b00abb7b56))
+* **deps:** bump node-simctl from 8.0.4 to 8.1.3 ([#83](https://github.com/appium/appium-mcp/issues/83)) ([bfa9d22](https://github.com/appium/appium-mcp/commit/bfa9d228f0144d6a19f3dd082c9adbcaa9b915dd))
+
 ## [1.7.4](https://github.com/appium/appium-mcp/compare/v1.7.3...v1.7.4) (2026-01-12)
 
 ### Miscellaneous Chores
