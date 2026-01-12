@@ -1,3 +1,10 @@
+## [1.7.4](https://github.com/appium/appium-mcp/compare/v1.7.3...v1.7.4) (2026-01-12)
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump eslint from 9.28.0 to 9.39.2 ([#80](https://github.com/appium/appium-mcp/issues/80)) ([8cd8e5f](https://github.com/appium/appium-mcp/commit/8cd8e5fd2bac4285af660971dee55d32a3eeed34))
+* **deps-dev:** bump ts-jest from 29.3.4 to 29.4.6 ([#82](https://github.com/appium/appium-mcp/issues/82)) ([3dccfa7](https://github.com/appium/appium-mcp/commit/3dccfa743bb2787fdb7519fef983b960fa0cf8e2))
+
 ## [1.7.3](https://github.com/appium/appium-mcp/compare/v1.7.2...v1.7.3) (2026-01-06)
 
 ### Miscellaneous Chores
