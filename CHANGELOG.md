@@ -1,3 +1,19 @@
+## [1.8.0](https://github.com/appium/appium-mcp/compare/v1.7.5...v1.8.0) (2026-01-16)
+
+### Features
+
+* add remote server connection functionality ([#85](https://github.com/appium/appium-mcp/issues/85)) ([8417258](https://github.com/appium/appium-mcp/commit/841725842b7518ce201a740754535cb03a4d8e00))
+
+### Bug Fixes
+
+* fix build error on CI ([76bb082](https://github.com/appium/appium-mcp/commit/76bb082168356ca67e4af7560bce9a6c1b9f0ac1))
+* fix import on CI ([#99](https://github.com/appium/appium-mcp/issues/99)) ([010d491](https://github.com/appium/appium-mcp/commit/010d491ba830de3fcf04d1a71772b65b9f4190dd))
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump prettier from 3.7.4 to 3.8.0 ([#97](https://github.com/appium/appium-mcp/issues/97)) ([01c5621](https://github.com/appium/appium-mcp/commit/01c5621b57c182d530a3803750db07667d8f7a23))
+* use Appium eslint/type ([#95](https://github.com/appium/appium-mcp/issues/95)) ([a8a587f](https://github.com/appium/appium-mcp/commit/a8a587f6534bf29fae78cec528b4da370b609b7e))
+
 ## [1.7.5](https://github.com/appium/appium-mcp/compare/v1.7.4...v1.7.5) (2026-01-12)
 
 ### Miscellaneous Chores
