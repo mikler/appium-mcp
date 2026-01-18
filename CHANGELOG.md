@@ -1,3 +1,10 @@
+## [1.8.4](https://github.com/appium/appium-mcp/compare/v1.8.3...v1.8.4) (2026-01-18)
+
+### Miscellaneous Chores
+
+* **deps:** bump @appium/support from 7.0.2 to 7.0.4 ([#86](https://github.com/appium/appium-mcp/issues/86)) ([3cd5e9d](https://github.com/appium/appium-mcp/commit/3cd5e9d855db1f2bb8e19ae5f29e9c82e0574e9f))
+* **deps:** bump fastmcp from 3.23.1 to 3.26.9 ([#101](https://github.com/appium/appium-mcp/issues/101)) ([28df18d](https://github.com/appium/appium-mcp/commit/28df18dc13cb8abf5e0d0c7e2c8669edddb7e653))
+
 ## [1.8.3](https://github.com/appium/appium-mcp/compare/v1.8.2...v1.8.3) (2026-01-18)
 
 ### Miscellaneous Chores
