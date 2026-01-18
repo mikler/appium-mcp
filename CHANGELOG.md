@@ -1,3 +1,9 @@
+## [1.8.3](https://github.com/appium/appium-mcp/compare/v1.8.2...v1.8.3) (2026-01-18)
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump jest and @types/jest ([#87](https://github.com/appium/appium-mcp/issues/87)) ([3b1d35e](https://github.com/appium/appium-mcp/commit/3b1d35e6e4de8c8dd0c8bb2c05f1cabc663a2272))
+
 ## [1.8.2](https://github.com/appium/appium-mcp/compare/v1.8.1...v1.8.2) (2026-01-17)
 
 ### Miscellaneous Chores
