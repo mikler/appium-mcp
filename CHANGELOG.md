@@ -1,3 +1,14 @@
+## [1.8.9](https://github.com/appium/appium-mcp/compare/v1.8.8...v1.8.9) (2026-01-21)
+
+### Bug Fixes
+
+* **ios:** use selected device name instead of hardcoded 'iPhone Simulator' ([#96](https://github.com/appium/appium-mcp/issues/96)) ([1389028](https://github.com/appium/appium-mcp/commit/1389028fe93ba6422cd8e56d8f3dd9297d7a881d))
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @types/node from 22.15.18 to 25.0.9 ([#109](https://github.com/appium/appium-mcp/issues/109)) ([960909c](https://github.com/appium/appium-mcp/commit/960909cfe03a623ec2fa6a2e057c6530839e09e7))
+* **deps:** bump webdriver from 9.23.0 to 9.23.2 ([#111](https://github.com/appium/appium-mcp/issues/111)) ([ae17e4f](https://github.com/appium/appium-mcp/commit/ae17e4f7323b21e446ce7b20ebcb58cccb42920d))
+
 ## [1.8.8](https://github.com/appium/appium-mcp/compare/v1.8.7...v1.8.8) (2026-01-20)
 
 ### Bug Fixes
